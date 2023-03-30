@@ -1,0 +1,10 @@
+{
+  "name": "package-semantic-release",
+  "version": "0.0.0-development",
+  "description": "Template for package Semantic Release",
+  "author": {
+    "name": "Jeremy Miller",
+    "email": "alchemicalflux@gmail.com",
+    "url": ""
+  }
+}
